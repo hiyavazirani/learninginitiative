@@ -6,12 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Phantom by HTML5 UP
+title: ML Learning Initiative
 description: > # this means to ignore newlines until "baseurl:"
-  This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-  image tiles (of which you can have as many or as few as you like). Makes use of some
-  SVG and animation techniques I've been experimenting with on that other project of mine
-  you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
+
 baseurl: "/Phantom-Jekyll-Theme" # the subpath of your site, e.g. /blog
 url: "http://bcasal.github.io" # the base hostname & protocol for your site
 

@@ -1,9 +1,9 @@
 ---
-layout:       post
-title:        "Test Posts 8"
-date:         2016-04-10 18:31:44 +0200
+layout:       people
+title:        "Genevieve"
+date:         2016-04-10 18:26:44 +0200
 author:       "Author"
-categories:   jekyll update
+categories:   people
 tags:         tag1 tag2
 
 # POSTS LIST
@@ -15,7 +15,7 @@ description: >                                # config description to post list 
 
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"      # config image to post header
-alt-image:    "image description test post h" # config image description to alt att.
+alt-image:    "image description test post c" # config image description to alt att.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

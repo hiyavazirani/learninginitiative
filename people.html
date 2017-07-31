@@ -1,13 +1,17 @@
 ---
 layout: default
-title: "Projects"
-order: 1
+title: "People"
+order: 2
 description: >
+
 ---
-<header></header>
+<header>
+	<h1>{{ page.description }}</h1>
+</header>
+
 <section class="tiles">
 
-  {% for post in site.categories.projects %}
+  {% for post in site.categories.people %}
       <article class="{{ post.class }}">
         <span class="image">
           <img src="{{ post.list-image | prepend: site.baseurl }}" alt="">
@@ -23,3 +27,4 @@ description: >
     {% endfor %}
 
 </section>
+

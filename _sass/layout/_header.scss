@@ -7,7 +7,7 @@
 /* Header */
 
 	#header {
-		@include padding(5em, 0, (3em, 0, -5em, 0));
+		@include padding(0em, 0, (3em, 0, -5em, 0)); //first one used to be 5
 
 		.logo {
 			display: block;
@@ -27,11 +27,11 @@
 
 			.symbol {
 				margin-right: 0.65em;
-
+//
 				img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					width: 24em;
+					height: 6em;
 				}
 			}
 		}

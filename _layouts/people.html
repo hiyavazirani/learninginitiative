@@ -12,7 +12,7 @@ layout: default
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">
         <span itemprop="name">{{ page.author }}</span>
       </span>
-      {% for cat in page.categories %}
+      {% for cat in page.categories.people %}
         • <span>{{ cat }}</span>
       {% endfor %}
       {% for tag in page.tags %}

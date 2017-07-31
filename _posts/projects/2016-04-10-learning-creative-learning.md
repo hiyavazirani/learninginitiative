@@ -1,21 +1,21 @@
 ---
-layout:       post
-title:        "Test Posts 10"
-date:         2016-04-10 18:33:44 +0200
+layout:       project
+title:        "Learning Creative Learning"
+date:         2016-04-10 18:23:44 +0200
 author:       "Author"
-categories:   jekyll update
+categories:   projects
 tags:         tag1 tag2
 
 # POSTS LIST
-class:       "style6"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/pic06.jpg"       # config image to post list card (1..6)
+class:       "style2"                         # config bg-color to post list card (1..6)
+list-image:  "/assets/images/pic02.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
-  Sed nisl arcu euismod sit amet nisi
-  lorem etiam dolor veroeros et feugiat.
+ An online course
+ that introduces ideas and strategies for supporting creative learning.
 
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"      # config image to post header
-alt-image:    "image description test post j" # config image description to alt att.
+alt-image:    "image description test post"   # config image description to alt att.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

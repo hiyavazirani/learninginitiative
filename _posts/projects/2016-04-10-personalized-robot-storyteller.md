@@ -1,21 +1,21 @@
 ---
-layout:       post
-title:        "Test Posts 1"
-date:         2016-04-10 18:24:44 +0200
+layout:       project
+title:        "Personalized Robot Storyteller"
+date:         2016-04-10 18:23:44 +0200
 author:       "Author"
-categories:   jekyll update
+categories:   projects
 tags:         tag1 tag2
 
 # POSTS LIST
-class:       "style3"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/pic03.jpg"       # config image to post list card (1..6)
+class:       "style2"                         # config bg-color to post list card (1..6)
+list-image:  "/assets/images/pic02.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
-  Sed nisl arcu euismod sit amet nisi
-  lorem etiam dolor veroeros et feugiat.
+  Aim to develop a deep personalization algorithm
+   based on a long-term interaction with an individual use
 
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"      # config image to post header
-alt-image:    "image description test post a" # config image description to alt att.
+alt-image:    "image description test post"   # config image description to alt att.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

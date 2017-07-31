@@ -1,17 +1,18 @@
 ---
-layout:       post
-title:        "Test Post"
+layout:       project
+title:        "Open Leadership Camp"
 date:         2016-04-10 18:23:44 +0200
 author:       "Author"
-categories:   jekyll update
+categories:   projects
 tags:         tag1 tag2
 
 # POSTS LIST
 class:       "style2"                         # config bg-color to post list card (1..6)
 list-image:  "/assets/images/pic02.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
-  Sed nisl arcu euismod sit amet nisi
-  lorem etiam dolor veroeros et feugiat.
+  A new type of professional
+  development program for senior
+  leaders of nonprofit and public sector organizations..
 
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"      # config image to post header
