@@ -8,7 +8,7 @@ tags:         tag1 tag2
 
 # POSTS LIST
 class:       "style4"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/certs.jpg"       # config image to post list card (1..6)
+list-image:  "/assets/images/projects/certs.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
   Cryptographically signed digital certificates embedded in the blockchain.
 

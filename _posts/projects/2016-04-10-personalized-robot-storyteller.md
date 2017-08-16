@@ -8,7 +8,7 @@ tags:         tag1 tag2
 
 # POSTS LIST
 class:       "style2"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/pic02.jpg"       # config image to post list card (1..6)
+list-image:  "/assets/images/projects/robot-storyteller.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
   Aim to develop a deep personalization algorithm
    based on a long-term interaction with an individual use

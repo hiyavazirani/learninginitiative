@@ -8,7 +8,7 @@ tags:         tag1 tag2
 
 # POSTS LIST
 class:       "style2"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/pic02.jpg"       # config image to post list card (1..6)
+list-image:  "/assets/images/projects/learning-creative-learning.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
  An online course
  that introduces ideas and strategies for supporting creative learning.

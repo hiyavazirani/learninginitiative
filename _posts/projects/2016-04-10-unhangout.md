@@ -7,8 +7,8 @@ categories:   projects
 tags:         tag1 tag2
 
 # POSTS LIST
-class:       "style2"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/unhangout.jpg"       # config image to post list card (1..6)
+class:       "style1"                         # config bg-color to post list card (1..6)
+list-image:  "/assets/images/projects/unhangout.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
   an open source platform for running
   large-scale unconferences online.

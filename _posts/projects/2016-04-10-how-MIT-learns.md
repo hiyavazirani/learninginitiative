@@ -7,14 +7,14 @@ categories:   projects
 tags:         tag1 tag2
 
 # POSTS LIST
-class:       "style6"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/hmitl.jpg"       # config image to post list card (1..6)
+class:       "style4"                         # config bg-color to post list card (1..6)
+list-image:  "/assets/images/projects/hmitl.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
   A glimpse into the experience of creative learning at MIT.
 
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"      # config image to post header
-alt-image:    "image description test post j" # config image description to alt att.
+alt-image:    "image description test post i" # config image description to alt att.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

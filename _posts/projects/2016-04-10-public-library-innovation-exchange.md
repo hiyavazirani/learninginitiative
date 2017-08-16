@@ -8,7 +8,7 @@ tags:         tag1 tag2
 
 # POSTS LIST
 class:       "style2"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/pic02.jpg"       # config image to post list card (1..6)
+list-image:  "/assets/images/projects/public-library-exchange.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
    Connects Media Lab researchers with
    librarians to develop new creative
